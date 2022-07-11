@@ -27,6 +27,10 @@
 <pVacina: Pfizer</p>
 <p>Data: 01/05/2022</p>
 <p>Numero do Lote: 123123123</p>
+
+---
+
+O programa foi criado através de entrada e saida de dados e manipulação de Struct, conceitos aprendidos durante o módulo ALGORITMOS E LÓGICA DE PROGRAMAÇÃO II do curso de Bacharelado em Engenharia de Software.
   
   
   
