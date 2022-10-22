@@ -5,4 +5,4 @@ Este repositório contém projetos criados durante o curso de Engenharia de soft
 
 ## Projetos
 
-- [Controle de Vacinação](https://github.com/joasdc/engenharia-de-software/tree/main/c-language/controle-de-vacinacao): Projeto criado em C que simula um cadastro de vacinação.
+- [Controle de Vacinação](https://github.com/joasdc/engenharia-de-software/tree/main/projects/controle-de-vacinacao): Projeto criado em C que simula um cadastro de vacinação.
